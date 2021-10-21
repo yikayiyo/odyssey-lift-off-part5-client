@@ -2,9 +2,9 @@
 
 Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+You can [preview the completed demo app here](https://legao-client-cats.herokuapp.com/).
 
-You can [find the server counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-server).
+You can [find the server counterpart here](https://github.com/yikayiyo/odyssey-lift-off-part5-server).
 
 ## How to use this repo
 
@@ -18,8 +18,6 @@ To get started:
 1. Run `npm start`.
 
 This will start the React application and open up `localhost:3000` in your web browser.
-
-> Note that the client will show an `ERROR: Failed to fetch` message unless you have the [counterpart GraphQL server](https://github.com/apollographql/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
 
 To check the **final** stage of the client, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
 
